@@ -75,9 +75,10 @@ This project implements a **Borewell Rescue System** using **ESP32-CAM** for rea
 
 ## Contributors
 
+* Y. Sreenath (22691A04Q4)
 * K. Ravali (22691A04K5)
 * B. Sivaiah (22691A04P5)
-* Y. Sreenath (22691A04Q4)
+  
 
 **Guided by**: Dr. Smriti Baruah, M.Tech.
 **Institution**: Madanapalle Institute of Technology & Science
